@@ -36,7 +36,7 @@ const Navbar = () => {
           <div className="container navbar-container">
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
               <MdFingerprint className="navbar-icon" />
-              LAVISH
+              LAVISHE
             </Link>
 
             <div className="menu-icon">
